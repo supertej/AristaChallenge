@@ -1,3 +1,5 @@
+Solution is written in Python
+
 # Arista Coding Question Fall 2017
 
 ## The Question
